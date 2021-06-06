@@ -1,0 +1,1060 @@
+[
+  {
+    "char_name": "Встроенные колонки",
+    "vid_name": "один из",
+    "unit_name": "(без наименования)",
+    "values": [
+      "есть"
+    ]
+  },
+  {
+    "char_name": "Два видеоадаптера",
+    "vid_name": "один из",
+    "unit_name": "(без наименования)",
+    "values": [
+      "есть"
+    ]
+  },
+  {
+    "char_name": "Разрешение экрана",
+    "vid_name": "один из",
+    "unit_name": "(без наименования)",
+    "values": [
+      "1366x768",
+      "1440x900",
+      "1600x900",
+      "1920x1080",
+      "2256x1504"
+    ]
+  },
+  {
+    "char_name": "Звуковой чипсет",
+    "vid_name": "один из",
+    "unit_name": "(без наименования)",
+    "values": [
+      "Intel High Definition Audio",
+      "Realtek ALC1220",
+      "Realtek ALC255",
+      "Realtek ALC269",
+      "Realtek ALC298",
+      "Realtek ALC3204",
+      "Realtek ALC3234",
+      "Realtek ALC3246",
+      "Realtek ALC3254",
+      "Realtek ALC3281-CG"
+    ]
+  },
+  {
+    "char_name": "Процессор",
+    "vid_name": "один из",
+    "unit_name": "(без наименования)",
+    "values": [
+      "AMD A10 9620P",
+      "AMD A9 9425",
+      "AMD Athlon Silver 3050U",
+      "AMD Ryzen 3 2200U",
+      "AMD Ryzen 3 3200U",
+      "AMD Ryzen 3 3250U",
+      "AMD Ryzen 3 4300U",
+      "AMD Ryzen 5 2500U",
+      "AMD Ryzen 5 3500U",
+      "AMD Ryzen 5 3550H",
+      "AMD Ryzen 5 4500U",
+      "AMD Ryzen 7 3700U",
+      "AMD Ryzen 7 4700U",
+      "Intel Atom x5 Z8300",
+      "Intel Atom x5 Z8350",
+      "Intel Celeron 2955U",
+      "Intel Celeron N3350",
+      "Intel Core i3",
+      "Intel Core i3 1005G1",
+      "Intel Core i3 10110U",
+      "Intel Core i3 6006U",
+      "Intel Core i3 6100U",
+      "Intel Core i3 8130U",
+      "Intel Core i3 8145U",
+      "Intel Core i5",
+      "Intel Core i5 10210U",
+      "Intel Core i5 10300H",
+      "Intel Core i5 1035G4",
+      "Intel Core i5 5350U",
+      "Intel Core i5 6200U",
+      "Intel Core i5 6300U",
+      "Intel Core i5 7200U",
+      "Intel Core i5 8200Y",
+      "Intel Core i5 8250U",
+      "Intel Core i5 8265U",
+      "Intel Core i5 9300H",
+      "Intel Core i5 9300HF",
+      "Intel Core i5-1035G1",
+      "Intel Core i7",
+      "Intel Core i7 10510U",
+      "Intel Core i7 7820HK",
+      "Intel Core i7 8550U",
+      "Intel Core i7 9750H",
+      "Intel Core m3 6Y30",
+      "Intel Core m3 7Y30",
+      "Intel Core m3 8100Y",
+      "Intel Pentium Gold 4417U",
+      "Intel Pentium Gold 5405U"
+    ]
+  },
+  {
+    "char_name": "Частота процессора",
+    "vid_name": "Обычный",
+    "unit_name": "МГц",
+    "values": null
+  },
+  {
+    "char_name": "Количество клавиш клавиатуры",
+    "vid_name": "один из",
+    "unit_name": "(без наименования)",
+    "values": [
+      "101",
+      "65",
+      "66",
+      "79",
+      "82",
+      "85",
+      "86",
+      "87",
+      "88"
+    ]
+  },
+  {
+    "char_name": "Количество ядер процессора",
+    "vid_name": "один из",
+    "unit_name": "(без наименования)",
+    "values": [
+      "1",
+      "2",
+      "4",
+      "6",
+      "8"
+    ]
+  },
+  {
+    "char_name": "Объем оперативной памяти",
+    "vid_name": "Обычный",
+    "unit_name": "ГигаБайт",
+    "values": null
+  },
+  {
+    "char_name": "Количество слотов",
+    "vid_name": "один из",
+    "unit_name": "(без наименования)",
+    "values": [
+      "1",
+      "16",
+      "2",
+      "4"
+    ]
+  },
+  {
+    "char_name": "Количество ячеек аккумулятора",
+    "vid_name": "один из",
+    "unit_name": "(без наименования)",
+    "values": [
+      "2",
+      "3",
+      "4",
+      "6",
+      "8",
+      "9"
+    ]
+  },
+  {
+    "char_name": "Тип памяти",
+    "vid_name": "один из",
+    "unit_name": "(без наименования)",
+    "values": [
+      "DDR3",
+      "DDR3L",
+      "DDR4",
+      "LPDDR3",
+      "LPDDR4",
+      "LPDDR4X"
+    ]
+  },
+  {
+    "char_name": "Максимальный размер",
+    "vid_name": "один из",
+    "unit_name": "(без наименования)",
+    "values": [
+      "128 ГБ",
+      "12 ГБ",
+      "16 ГБ",
+      "20 ГБ",
+      "24 ГБ",
+      "2 ГБ",
+      "32 ГБ",
+      "40 ГБ",
+      "48 ГБ",
+      "4 ГБ",
+      "64 ГБ",
+      "8 ГБ"
+    ]
+  },
+  {
+    "char_name": "Частота памяти",
+    "vid_name": "один из",
+    "unit_name": "(без наименования)",
+    "values": [
+      "1333 МГц",
+      "1600 МГц",
+      "1866 МГц",
+      "2133 МГц",
+      "2400 МГц",
+      "2666 МГц",
+      "2933 МГц",
+      "3200 МГц"
+    ]
+  },
+  {
+    "char_name": "Общий объем накопителей HDD",
+    "vid_name": "один из",
+    "unit_name": "(без наименования)",
+    "values": [
+      "1000 ГБ",
+      "100 ГБ",
+      "1024 ГБ",
+      "1128 ГБ",
+      "128 ГБ",
+      "160 ГБ",
+      "2000 ГБ",
+      "250 ГБ",
+      "256 ГБ",
+      "320 ГБ",
+      "400 ГБ",
+      "500 ГБ",
+      "512 ГБ",
+      "628 ГБ",
+      "750 ГБ"
+    ]
+  },
+  {
+    "char_name": "Общий объем накопителей SSD",
+    "vid_name": "один из",
+    "unit_name": "(без наименования)",
+    "values": [
+      "1000 ГБ",
+      "1016 ГБ",
+      "1024 ГБ",
+      "1032 ГБ",
+      "1256 ГБ",
+      "128 ГБ",
+      "1536 ГБ",
+      "160 ГБ",
+      "180 ГБ",
+      "2000 ГБ",
+      "2048 ГБ",
+      "250 ГБ",
+      "256 ГБ",
+      "32 ГБ",
+      "4096 ГБ",
+      "500 ГБ",
+      "512 ГБ",
+      "64 ГБ"
+    ]
+  },
+  {
+    "char_name": "Объем eMMC",
+    "vid_name": "один из",
+    "unit_name": "(без наименования)",
+    "values": [
+      "32 ГБ",
+      "64 ГБ"
+    ]
+  },
+  {
+    "char_name": "Определение координат",
+    "vid_name": "один из",
+    "unit_name": "(без наименования)",
+    "values": [
+      "GPS",
+      "GPS, ГЛОНАСС",
+      "ГЛОНАСС"
+    ]
+  },
+  {
+    "char_name": "Объем видеопамяти",
+    "vid_name": "один из",
+    "unit_name": "(без наименования)",
+    "values": [
+      "1024 МБ",
+      "1256 МБ",
+      "16 ГБ",
+      "1 ГБ",
+      "2048 МБ",
+      "204 МБ",
+      "256 МБ",
+      "2 ГБ",
+      "3 ГБ",
+      "4096 МБ",
+      "4 ГБ",
+      "512 МБ",
+      "64 МБ",
+      "6 ГБ",
+      "8000 МБ",
+      "8 ГБ"
+    ]
+  },
+  {
+    "char_name": "Общий объем накопителей",
+    "vid_name": "Обычный",
+    "unit_name": "Гигабайт",
+    "values": null
+  },
+  {
+    "char_name": "Конфигурация накопителей",
+    "vid_name": "несколько из",
+    "unit_name": "(без наименования)",
+    "values": [
+      "eMMC",
+      "HDD",
+      "HDD+SSD",
+      "SSD",
+      "SSD+Optane",
+      "HDD+Optane"
+    ]
+  },
+  {
+    "char_name": "Видеокарта",
+    "vid_name": "один из",
+    "unit_name": "(без наименования)",
+    "values": [
+      "AMD FirePro W4190M",
+      "AMD FirePro W5170M",
+      "AMD Radeon 520",
+      "AMD Radeon 530",
+      "AMD Radeon 535",
+      "AMD Radeon 540X",
+      "AMD Radeon 610",
+      "AMD Radeon Graphics",
+      "AMD Radeon R3",
+      "AMD Radeon R5",
+      "AMD Radeon RX Vega 10",
+      "AMD Radeon Vega 3",
+      "AMD Radeon Vega 8",
+      "Intel GMA HD",
+      "Intel HD Graphics",
+      "Intel HD Graphics 4000",
+      "Intel HD Graphics 4400",
+      "Intel HD Graphics 500",
+      "Intel HD Graphics 5000",
+      "Intel HD Graphics 515",
+      "Intel HD Graphics 520",
+      "Intel HD Graphics 6000",
+      "Intel HD Graphics 610",
+      "Intel HD Graphics 615",
+      "Intel HD Graphics 620",
+      "NVIDIA GeForce 940MX",
+      "NVIDIA GeForce GTX 1050",
+      "NVIDIA GeForce GTX 1050 Ti",
+      "NVIDIA GeForce GTX 1080",
+      "NVIDIA GeForce GTX 1650",
+      "NVIDIA GeForce GTX 1650 MAXQ",
+      "NVIDIA GeForce GTX 950M",
+      "NVIDIA GeForce GTX 960M",
+      "NVIDIA GeForce MX110",
+      "NVIDIA GeForce MX130",
+      "NVIDIA GeForce MX150",
+      "NVIDIA GeForce MX230",
+      "NVIDIA GeForce MX250",
+      "NVIDIA GeForce MX350"
+    ]
+  },
+  {
+    "char_name": "Скорость вращения",
+    "vid_name": "один из",
+    "unit_name": "(без наименования)",
+    "values": [
+      "4200 об/мин",
+      "5200 об/мин",
+      "5400 об/мин",
+      "7200 об/мин"
+    ]
+  },
+  {
+    "char_name": "Операционная система",
+    "vid_name": "несколько из",
+    "unit_name": "(без наименования)",
+    "values": [
+      "Chrome OS",
+      "DOS",
+      "Endless OS",
+      "Linux",
+      "macOS",
+      "Windows 10 Home",
+      "Windows 10 Pro",
+      "Windows 8 64",
+      "Без ОС",
+      "Android",
+      "Windows 7 Professional 64",
+      "Windows 7 Professional",
+      "Windows 7 Home Basic",
+      "Windows 7 Home Basic 64",
+      "Windows 8 Pro 64",
+      "Windows 7 Home Premium",
+      "Windows 7 Home Premium 64",
+      "Windows 7 Starter",
+      "Windows 8",
+      "Windows 8 Pro",
+      "Windows Vista Home Premium",
+      "Windows XP Home",
+      "Windows XP Prof",
+      "Windows XP Tablet"
+    ]
+  },
+  {
+    "char_name": "ТВ-тюнер",
+    "vid_name": "один из",
+    "unit_name": "(без наименования)",
+    "values": [
+      "есть"
+    ]
+  },
+  {
+    "char_name": "Стилус",
+    "vid_name": "один из",
+    "unit_name": "(без наименования)",
+    "values": [
+      "есть"
+    ]
+  },
+  {
+    "char_name": "Цвет",
+    "vid_name": "несколько из",
+    "unit_name": "(без наименования)",
+    "values": [
+      "Черный",
+      "Белый"
+    ]
+  },
+  {
+    "char_name": "Тип видеопамяти",
+    "vid_name": "один из",
+    "unit_name": "(без наименования)",
+    "values": [
+      "DDR3",
+      "GDDR3",
+      "GDDR4",
+      "GDDR5",
+      "GDDR5X",
+      "GDDR6",
+      "HBM2",
+      "SMA"
+    ]
+  },
+  {
+    "char_name": "Тип аккумулятора",
+    "vid_name": "один из",
+    "unit_name": "(без наименования)",
+    "values": [
+      "Li-Ion",
+      "Li-Pol"
+    ]
+  },
+  {
+    "char_name": "Тип покрытия экрана",
+    "vid_name": "один из",
+    "unit_name": "(без наименования)",
+    "values": [
+      "антибликовый",
+      "глянцевый",
+      "матовый"
+    ]
+  },
+  {
+    "char_name": "Устройство для чтения флэш-карт",
+    "vid_name": "один из",
+    "unit_name": "(без наименования)",
+    "values": [
+      "есть"
+    ]
+  },
+  {
+    "char_name": "Устройства позиционирования",
+    "vid_name": "один из",
+    "unit_name": "(без наименования)",
+    "values": [
+      "PointStick and Touchpad",
+      "Screenpad",
+      "Touchpad"
+    ]
+  },
+  {
+    "char_name": "Ядро процессора",
+    "vid_name": "один из",
+    "unit_name": "(без наименования)",
+    "values": [
+      "Amber Lake-Y",
+      "Apollo Lake",
+      "Arrandale",
+      "Bay Trail-M",
+      "Bay Trail-T",
+      "Beema",
+      "Braswell",
+      "Bristol Ridge",
+      "Bristol Ridge PRO",
+      "Broadwell",
+      "Carrizo",
+      "Carrizo-L",
+      "Carrizo PRO",
+      "Cherry Trail",
+      "Coffee Lake",
+      "Coffee Lake-H",
+      "Comet Lake-U",
+      "Gemini Lake",
+      "Haswell",
+      "Ice Lake",
+      "Ice Lake-U",
+      "Ivy Bridge",
+      "Kabini",
+      "Kaby Lake",
+      "Kaby Lake-G",
+      "Kaby Lake-H",
+      "Kaby Lake-R",
+      "Kaby Lake Refresh",
+      "Kaby Lake-U",
+      "Kaveri",
+      "Merom",
+      "Penryn",
+      "Pinnacle Ridge",
+      "Prescott",
+      "Raven Ridge",
+      "Raven Ridge PRO",
+      "Richland",
+      "Sandy Bridge",
+      "Skylake",
+      "Skylake-U",
+      "Stoney Ridge",
+      "Trinity",
+      "Whiskey Lake",
+      "Whiskey Lake-U",
+      "Zen"
+    ]
+  },
+  {
+    "char_name": "Емкость аккумулятора",
+    "vid_name": "Обычный",
+    "unit_name": "мА·ч",
+    "values": null
+  },
+  {
+    "char_name": "Наличие Wi-Fi",
+    "vid_name": "один из",
+    "unit_name": "(без наименования)",
+    "values": [
+      "есть"
+    ]
+  },
+  {
+    "char_name": "Стандарт Wi-Fi",
+    "vid_name": "один из",
+    "unit_name": "(без наименования)",
+    "values": [
+      "802.11a",
+      "802.11ac",
+      "802.11ad",
+      "802.11ax",
+      "802.11b",
+      "802.11n",
+      "802.11g"
+    ]
+  },
+  {
+    "char_name": "Время работы с доп. аккумулятором",
+    "vid_name": "Обычный",
+    "unit_name": "часов",
+    "values": null
+  },
+  {
+    "char_name": "Время работы",
+    "vid_name": "Обычный",
+    "unit_name": "часов",
+    "values": null
+  },
+  {
+    "char_name": "Наличие веб-камеры",
+    "vid_name": "один из",
+    "unit_name": "(без наименования)",
+    "values": [
+      "есть"
+    ]
+  },
+  {
+    "char_name": "Разрешение веб-камеры",
+    "vid_name": "Обычный",
+    "unit_name": "Мегапикселей",
+    "values": null
+  },
+  {
+    "char_name": "Форм-фактор накопителя",
+    "vid_name": "несколько из",
+    "unit_name": "(без наименования)",
+    "values": [
+      "2.5\"",
+      "M.2 2242",
+      "M.2 2280",
+      "M.2 2230"
+    ]
+  },
+  {
+    "char_name": "Ударопрочный корпус",
+    "vid_name": "один из",
+    "unit_name": "(без наименования)",
+    "values": [
+      "да"
+    ]
+  },
+  {
+    "char_name": "Металлический корпус",
+    "vid_name": "один из",
+    "unit_name": "(без наименования)",
+    "values": [
+      "да"
+    ]
+  },
+  {
+    "char_name": "Интерфейсы",
+    "vid_name": "несколько из",
+    "unit_name": "(без наименования)",
+    "values": [
+      "eSATA",
+      "Ethernet - RJ-45",
+      "Thunderbolt 2",
+      "Thunderbolt 3",
+      "Thunderbolt 3 x 2",
+      "USB 2.0 Type A",
+      "USB 2.0 Type A x 2",
+      "USB 2.0 Type A x 3",
+      "USB 3.0 Type A",
+      "USB 3.0 Type A x 2",
+      "USB 3.0 Type A x 3",
+      "USB 3.0 Type A x 4",
+      "USB 3.0 Type-С",
+      "USB 3.0 Type-С x 2",
+      "USB 3.1 Type A",
+      "USB 3.1 Type A x 2",
+      "USB 3.1 Type A x 3",
+      "USB 3.1 Type-С",
+      "USB 3.1 Type-С x 2",
+      "USB 3.2 Gen1 Type A",
+      "USB 3.2 Gen1 Type A x 2",
+      "USB 3.2 Gen1 Type A x 3",
+      "USB 3.2 Gen1 Type-С",
+      "USB 3.2 Gen2 Type-С",
+      "вход аудио",
+      "вход микрофонный",
+      "выход DisplayPort",
+      "выход HDMI",
+      "выход micro HDMI",
+      "выход Mini DisplayPort",
+      "выход mini VGA",
+      "выход VGA",
+      "выход на наушники",
+      "микрофон/наушники Combo"
+    ]
+  },
+  {
+    "char_name": "Карты памяти/слоты расширения",
+    "vid_name": "несколько из",
+    "unit_name": "(без наименования)",
+    "values": [
+      "ExpressCard/34",
+      "microSD",
+      "microSDHC",
+      "microSDXC",
+      "MultiMedia Card",
+      "SD",
+      "SDHC",
+      "SDXC",
+      "ExpressCard/54",
+      "PCMCIA II",
+      "Smart Card",
+      "Memory Stick",
+      "Memory Stick Duo",
+      "Memory Stick PRO",
+      "Memory Stick PRO Duo",
+      "Compact Flash",
+      "miniSD"
+    ]
+  },
+  {
+    "char_name": "Высота",
+    "vid_name": "Обычный",
+    "unit_name": "миллиметр",
+    "values": null
+  },
+  {
+    "char_name": "Дополнительная информация",
+    "vid_name": "Обычный",
+    "unit_name": "(без наименования)",
+    "values": null
+  },
+  {
+    "char_name": "Особенности",
+    "vid_name": "Обычный",
+    "unit_name": "(без наименования)",
+    "values": null
+  },
+  {
+    "char_name": "Глубина",
+    "vid_name": "Обычный",
+    "unit_name": "миллиметр",
+    "values": null
+  },
+  {
+    "char_name": "Ширина",
+    "vid_name": "Обычный",
+    "unit_name": "миллиметр",
+    "values": null
+  },
+  {
+    "char_name": "Тип матрицы экрана",
+    "vid_name": "один из",
+    "unit_name": "(без наименования)",
+    "values": [
+      "IPS",
+      "SVA",
+      "TN",
+      "WVA"
+    ]
+  },
+  {
+    "char_name": "Подсветка экрана",
+    "vid_name": "один из",
+    "unit_name": "(без наименования)",
+    "values": [
+      "светодиодная"
+    ]
+  },
+  {
+    "char_name": "Объем Optane",
+    "vid_name": "один из",
+    "unit_name": "(без наименования)",
+    "values": [
+      "16 ГБ",
+      "32 ГБ"
+    ]
+  },
+  {
+    "char_name": "Оптический привод",
+    "vid_name": "один из",
+    "unit_name": "(без наименования)",
+    "values": [
+      "BD-RE, внутренний",
+      "Blu-Ray, внутренний",
+      "Blu-Ray, сменный",
+      "DVD",
+      "DVD/CD-RW, внутренний",
+      "DVD-RW",
+      "DVD-RW, внутренний",
+      "DVD-RW, сменный",
+      "DVD, внутренний",
+      "нет"
+    ]
+  },
+  {
+    "char_name": "Наличие Bluetooth",
+    "vid_name": "один из",
+    "unit_name": "(без наименования)",
+    "values": [
+      "есть"
+    ]
+  },
+  {
+    "char_name": "Версия Bluetooth",
+    "vid_name": "один из",
+    "unit_name": "(без наименования)",
+    "values": [
+      "3.0 HS",
+      "4.0",
+      "4.1",
+      "4.2",
+      "5.0",
+      "5.1",
+      "2.0 EDR",
+      "2.1 EDR"
+    ]
+  },
+  {
+    "char_name": "EDGE",
+    "vid_name": "один из",
+    "unit_name": "(без наименования)",
+    "values": [
+      "есть"
+    ]
+  },
+  {
+    "char_name": "3G (UMTS)",
+    "vid_name": "один из",
+    "unit_name": "(без наименования)",
+    "values": [
+      "есть"
+    ]
+  },
+  {
+    "char_name": "HSDPA",
+    "vid_name": "один из",
+    "unit_name": "(без наименования)",
+    "values": [
+      "есть"
+    ]
+  },
+  {
+    "char_name": "4G LTE",
+    "vid_name": "один из",
+    "unit_name": "(без наименования)",
+    "values": [
+      "есть"
+    ]
+  },
+  {
+    "char_name": "Подсветка клавиатуры",
+    "vid_name": "один из",
+    "unit_name": "(без наименования)",
+    "values": [
+      "есть"
+    ]
+  },
+  {
+    "char_name": "Сенсорная панель Touch Bar",
+    "vid_name": "один из",
+    "unit_name": "(без наименования)",
+    "values": [
+      "есть"
+    ]
+  },
+  {
+    "char_name": "Встроенный микрофон",
+    "vid_name": "один из",
+    "unit_name": "(без наименования)",
+    "values": [
+      "есть"
+    ]
+  },
+  {
+    "char_name": "Встроенный сабвуфер",
+    "vid_name": "один из",
+    "unit_name": "(без наименования)",
+    "values": [
+      "есть"
+    ]
+  },
+  {
+    "char_name": "Сканер отпечатка пальца",
+    "vid_name": "один из",
+    "unit_name": "(без наименования)",
+    "values": [
+      "есть"
+    ]
+  },
+  {
+    "char_name": "Комплектация",
+    "vid_name": "Обычный",
+    "unit_name": "(без наименования)",
+    "values": null
+  },
+  {
+    "char_name": "Макс. скорость адаптера LAN",
+    "vid_name": "один из",
+    "unit_name": "Мбит/с",
+    "values": [
+      "10",
+      "100",
+      "1000",
+      "2500"
+    ]
+  },
+  {
+    "char_name": "Вес",
+    "vid_name": "Обычный",
+    "unit_name": "килограмм",
+    "values": null
+  },
+  {
+    "char_name": "Размер экрана",
+    "vid_name": "один из",
+    "unit_name": "(без наименования)",
+    "values": [
+      "10.1\"",
+      "10.4\"",
+      "11.6\"",
+      "12.3\"",
+      "12.5\"",
+      "12\"",
+      "13.1\"",
+      "13.3\"",
+      "13.4\"",
+      "13.5\"",
+      "13.9\"",
+      "14.1\"",
+      "14\"",
+      "15\"",
+      "15.4\"",
+      "15.6\"",
+      "16\"",
+      "16.1\"",
+      "17\"",
+      "17.1\"",
+      "17.3\"",
+      "18.4\"",
+      "13\"",
+      "14.4\"",
+      "15.5\"",
+      "16.4\"",
+      "19.5\"",
+      "21.3\"",
+      "21.5\"",
+      "23.8\"",
+      "23\""
+    ]
+  },
+  {
+    "char_name": "Тип",
+    "vid_name": "один из",
+    "unit_name": "(без наименования)",
+    "values": [
+      "игровой ноутбук",
+      "ноутбук",
+      "трансформер"
+    ]
+  },
+  {
+    "char_name": "Ultrabook",
+    "vid_name": "один из",
+    "unit_name": "(без наименования)",
+    "values": [
+      "да"
+    ]
+  },
+  {
+    "char_name": "Объем кэша L2",
+    "vid_name": "один из",
+    "unit_name": "(без наименования)",
+    "values": [
+      "1.5 МБ",
+      "1 МБ",
+      "2 МБ",
+      "3 МБ",
+      "4 МБ",
+      "512 КБ"
+    ]
+  },
+  {
+    "char_name": "Объем кэша L3",
+    "vid_name": "один из",
+    "unit_name": "(без наименования)",
+    "values": [
+      "12 МБ",
+      "16 МБ",
+      "2 МБ",
+      "3 МБ",
+      "4 МБ",
+      "6 МБ",
+      "8 МБ",
+      "9 МБ"
+    ]
+  },
+  {
+    "char_name": "Чипсет",
+    "vid_name": "один из",
+    "unit_name": "(без наименования)",
+    "values": [
+      "AMD A70M",
+      "Intel 865PE",
+      "Intel 945GM",
+      "Intel CM236",
+      "Intel CM238",
+      "Intel CM246",
+      "Intel GM45",
+      "Intel HM170",
+      "Intel HM175",
+      "Intel HM370",
+      "Intel HM55",
+      "Intel HM57",
+      "Intel HM65",
+      "Intel HM76",
+      "Intel HM87",
+      "Intel PM965",
+      "Intel QM67",
+      "Intel QM77",
+      "Intel QM87",
+      "Intel QS67",
+      "Intel Z390"
+    ]
+  },
+  {
+    "char_name": "Частота системной шины",
+    "vid_name": "один из",
+    "unit_name": "(без наименования)",
+    "values": [
+      "1066 МГц",
+      "533 МГц",
+      "800 МГц"
+    ]
+  },
+  {
+    "char_name": "Тип видеокарты",
+    "vid_name": "один из",
+    "unit_name": "(без наименования)",
+    "values": [
+      "встроенная",
+      "дискретная",
+      "дискретная и встроенная"
+    ]
+  },
+  {
+    "char_name": "Объем впаянной оперативной памяти",
+    "vid_name": "один из",
+    "unit_name": "(без наименования)",
+    "values": [
+      "12 ГБ",
+      "16 ГБ",
+      "1 ГБ",
+      "2 ГБ",
+      "32 ГБ",
+      "4 ГБ",
+      "8 ГБ"
+    ]
+  },
+  {
+    "char_name": "Частота обновления экрана",
+    "vid_name": "один из",
+    "unit_name": "(без наименования)",
+    "values": [
+      "120 Гц",
+      "144 Гц",
+      "240 Гц",
+      "300 Гц",
+      "60 Гц",
+      "75 Гц"
+    ]
+  },
+  {
+    "char_name": "Широкоформатный экран",
+    "vid_name": "один из",
+    "unit_name": "(без наименования)",
+    "values": [
+      "да"
+    ]
+  },
+  {
+    "char_name": "Сенсорный экран",
+    "vid_name": "один из",
+    "unit_name": "(без наименования)",
+    "values": [
+      "да"
+    ]
+  },
+  {
+    "char_name": "Мультитач-экран",
+    "vid_name": "один из",
+    "unit_name": "(без наименования)",
+    "values": [
+      "да"
+    ]
+  }
+]
